@@ -1,10 +1,13 @@
 # <h1 align="center">🚀 ForumHub - Challenge Alura/ONE</h1>
 
-Projeto **Challenge FórumHub** desenvolvido como parte do curso Alura/ONE | TECH FOUNDATION - Especialização Back-End, Módulo Java e Spring Framework G9 - ONE, com o objetivo de criar uma API REST para gerenciamento de tópicos em um fórum de cursos.
+Projeto **Challenge ONE FórumHub** desenvolvido como parte do curso Alura/ONE | TECH FOUNDATION - Especialização Back-End, Módulo Java e Spring Framework G9 - ONE, com o objetivo de criar uma API REST para gerenciamento de tópicos em um fórum de cursos. O desafio foi proposto com base nos cursos:
+- Spring Boot 3: Desenvolva uma API Rest em Java 
+- Spring Boot 3: Aplique boas práticas e proteja uma API Rest 
+- Spring Boot 3: Documente, teste e prepare uma API para o deploy
 
 ---
 
-## ✨ Funcionalidades
+## ⚙️ Funcionalidades
 - Cadastro de usuários com senhas criptografadas usando **BCrypt**
 - Autenticação via **Bearer Token (JWT)**
 - CRUD de tópicos e respostas
@@ -93,21 +96,35 @@ Para visualizar e testar os endpoints.
    ```bash
    git clone https://github.com/izauratm/forumhub.git
 
-### Configure o banco de dados MySQL no application.properties.
+2. Configure o banco de dados MySQL no application.properties.
 Execute o projeto: ./mvnw spring-boot:run 
 
-### Acess a API em: http://localhost:8080
+3. Acess a API em: http://localhost:8080
 
 ---
 
 ## 📌 Organização
 As tarefas e etapas do desenvolvimento foram gerenciadas com o Trello, garantindo melhor acompanhamento do progresso e organização do fluxo de trabalho.
 
+---
+
 ## 👩‍💻 Autora
-Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION.
+Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION Especialização Back-End.
 
 ---
-📎 Link da plataforma: [Cursos Alura|ONE](https://cursos.alura.com.br/) 
+## Links de Referência:
+- [Trello](https://trello.com/home)
+- [Bcrypt Generator](https://bcrypt-generator.com/)
+- [FastAPI](https://fastapi.tiangolo.com/#keystone-sponsor)
+- [Swagger](https://swagger.io/)
+- [JWT:JSON Web Tokens](https://www.jwt.io/)
+- [GitHub Java-JWT](https://github.com/auth0/java-jwt)
+- [Spring Initializr - Para criação dos Projetos](https://start.spring.io/)
+- [Oracle](https://www.linkedin.com/company/oracle/)
+- [Alura|Linkedin](https://www.linkedin.com/school/aluracursos/)
+
+---
+📎 Link da plataforma: [Cursos Alura | ONE](https://cursos.alura.com.br/) 
  
 
 ## 📜Licença 
