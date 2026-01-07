@@ -124,7 +124,7 @@ As tarefas e etapas do desenvolvimento foram gerenciadas com o Trello, garantind
 Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION Especialização Back-End.
 
 ---
-## Links de Referência:
+## Alguns Links de Referência:
 - [Trello](https://trello.com/home)
 - [Bcrypt Generator](https://bcrypt-generator.com/)
 - [FastAPI](https://fastapi.tiangolo.com/#keystone-sponsor)
