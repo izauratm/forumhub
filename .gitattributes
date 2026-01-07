@@ -1,0 +1,11 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+# Sempre usar LF para arquivos de código
+*.java text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+
+# Scripts do Windows podem usar CRLF
+*.cmd text eol=crlf
+
