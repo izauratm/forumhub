@@ -96,7 +96,7 @@ Para visualizar e testar os endpoints.
    ```bash
    git clone https://github.com/izauratm/forumhub.git
 
-2. Configure o banco de dados MySQL no application.properties.
+2. Configure o banco de dados MySQL (ou outro banco de dados de sua preferência) no application.properties.
 Execute o projeto: ./mvnw spring-boot:run 
 
 3. Acess a API em: http://localhost:8080
