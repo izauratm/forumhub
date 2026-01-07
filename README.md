@@ -137,6 +137,8 @@ Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION Especiali
 - [Postman](https://www.postman.com/)
 - [MySQL](https://www.mysql.com/)
 - [Oracle - site oficial Brasil](https://www.oracle.com/br/)
+- [Springdoc-OpenAPI](https://springdoc.org/#how-do-i-add-authorization-header-in-requests0)
+- [OpenAPI Specification](https://spec.openapis.org/oas/latest.html#schema)
 
 ---
 📎 Link da plataforma: [Cursos Alura | ONE](https://cursos.alura.com.br/) 
