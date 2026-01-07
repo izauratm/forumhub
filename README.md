@@ -134,6 +134,8 @@ Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION Especiali
 - [Spring Initializr - Para criação dos Projetos](https://start.spring.io/)
 - [Oracle](https://www.linkedin.com/company/oracle/)
 - [Alura|Linkedin](https://www.linkedin.com/school/aluracursos/)
+- [Postman](https://www.postman.com/)
+- [MySQL](https://www.mysql.com/)
 
 ---
 📎 Link da plataforma: [Cursos Alura | ONE](https://cursos.alura.com.br/) 
