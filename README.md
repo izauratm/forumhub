@@ -132,10 +132,11 @@ Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION Especiali
 - [JWT:JSON Web Tokens](https://www.jwt.io/)
 - [GitHub Java-JWT](https://github.com/auth0/java-jwt)
 - [Spring Initializr - Para criação dos Projetos](https://start.spring.io/)
-- [Oracle](https://www.linkedin.com/company/oracle/)
-- [Alura|Linkedin](https://www.linkedin.com/school/aluracursos/)
+- [Oracle | Linkedin](https://www.linkedin.com/company/oracle/)
+- [Alura | Linkedin](https://www.linkedin.com/school/aluracursos/)
 - [Postman](https://www.postman.com/)
 - [MySQL](https://www.mysql.com/)
+- [Oracle - site oficial Brasil](https://www.oracle.com/br/)
 
 ---
 📎 Link da plataforma: [Cursos Alura | ONE](https://cursos.alura.com.br/) 
