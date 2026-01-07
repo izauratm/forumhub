@@ -76,6 +76,18 @@ src/
  └── target/   # arquivos gerados pelo build
 ```
 
+- Obs: No arquivo application.properties configure variavéis de ambiente para sua segurança.
+
+---
+## 🧩 Organização das camadas
+- controller/ → Endpoints da API (entrada de requisições HTTP).
+- domain/ → Entidades e repositórios (modelo de negócio).
+- dto/ → Objetos de transferência de dados (requests/responses).
+- infra/ → Configurações de segurança, tratamento de erros e documentação.
+- service/ → Regras de negócio e lógica da aplicação.
+- resources/ → Configurações da aplicação (ex.: banco de dados).
+- test/ → Testes automatizados.
+
 ---
 
 ## 🔑 Autenticação
