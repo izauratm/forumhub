@@ -1,6 +1,6 @@
 # <h1 align="center">🚀 ForumHub - Challenge Alura/ONE</h1>
 
-Projeto **Challenge ONE FórumHub** desenvolvido como parte do curso Alura/ONE | TECH FOUNDATION - Especialização Back-End, Módulo Java e Spring Framework G9 - ONE, com o objetivo de criar uma API REST para gerenciamento de tópicos em um fórum de cursos. O desafio foi proposto com base nos cursos:
+Projeto **Challenge ONE FórumHub** desenvolvido como parte do curso **Alura/ONE | TECH FOUNDATION - Especialização Back-End, Módulo Java e Spring Framework G9 - ONE**, com o objetivo de criar uma API REST para gerenciamento de tópicos em um fórum de cursos. O desafio foi proposto com base nos cursos:
 - Spring Boot 3: Desenvolva uma API Rest em Java 
 - Spring Boot 3: Aplique boas práticas e proteja uma API Rest 
 - Spring Boot 3: Documente, teste e prepare uma API para o deploy
