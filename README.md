@@ -1,6 +1,6 @@
-# 🚀 ForumHub - Challenge Alura/ONE
+# <h1 align="center">🚀 ForumHub - Challenge Alura/ONE</h1>
 
-Projeto **Challenge Alura/ONE** desenvolvido como parte do curso Alura/ONE | TECH FOUNDATION - Especialização Back-End - Módulo Java e Spring Framework G9 - ONE, com o objetivo de criar uma API REST para gerenciamento de tópicos em um fórum de cursos.
+Projeto **Challenge FórumHub** desenvolvido como parte do curso Alura/ONE | TECH FOUNDATION - Especialização Back-End, Módulo Java e Spring Framework G9 - ONE, com o objetivo de criar uma API REST para gerenciamento de tópicos em um fórum de cursos.
 
 ---
 
@@ -104,5 +104,13 @@ Execute o projeto: ./mvnw spring-boot:run
 As tarefas e etapas do desenvolvimento foram gerenciadas com o Trello, garantindo melhor acompanhamento do progresso e organização do fluxo de trabalho.
 
 ## 👩‍💻 Autora
-Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION - Especialização Back-End - Módulo Java e Spring Framework G9 - ONE -Desafio Challenge.
-   
+Desenvolvido por Izaura TM durante o curso Alura/ONE | TECH FOUNDATION.
+
+---
+📎 Link da plataforma: [Cursos Alura|ONE](https://cursos.alura.com.br/) 
+ 
+
+## 📜Licença 
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
